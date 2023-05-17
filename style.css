@@ -1,0 +1,28 @@
+body {
+    
+    height: 100vh;
+}
+
+h1 {
+    height: 37px;
+    background-color: tomato;
+    margin: 0 5px;
+    width: 99vw;
+}
+
+.container {
+    width: 99.2vw;
+    height: 92vh;
+   
+    margin: 5px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.outdor {
+    width: 120vw;
+    background-color: yellow;
+    border: 1px solid bleu;
+    margin: 5px;
+    padding: 7px;
+}
